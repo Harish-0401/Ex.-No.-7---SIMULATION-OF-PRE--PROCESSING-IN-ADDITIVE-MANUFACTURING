@@ -1,5 +1,5 @@
 # Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 
+### DATE: 21 / 12 / 2025
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -44,9 +44,17 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+<img width="1916" height="620" alt="image" src="https://github.com/user-attachments/assets/8d9be199-3511-461a-ae8c-7854b89f4f04" />
+<img width="1414" height="811" alt="image" src="https://github.com/user-attachments/assets/b64ad568-4dc4-4cce-87e5-2377076296b5" />
+<img width="1389" height="736" alt="image" src="https://github.com/user-attachments/assets/35c3bbcb-a007-495d-b2c5-32f3d24addca" />
+<img width="1916" height="620" alt="image" src="https://github.com/user-attachments/assets/53b5d4a7-570c-43b7-970e-7c0a5b3be7c6" />
 
-### Name:
-### Register Number:
+
+
+
+
+### Name: Harish S 
+### Register Number: 25010105
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
